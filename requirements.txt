@@ -1,0 +1,6 @@
+streamlit
+shap
+matplotlib
+fpdf
+pandas
+scikit-learn
